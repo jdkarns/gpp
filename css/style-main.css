@@ -1,0 +1,227 @@
+
+body {
+	margin: 0;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+header.masthead > img {
+	margin-top: 20px;
+}
+
+header.masthead > img.logo {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+  }
+  
+  h2,
+  h3,
+  a {
+	  color: #34495e;
+  }
+  
+  a {
+	  text-decoration: none;
+  }
+  
+  .main-nav {
+	  margin-top: 5px;
+	  
+  }
+  /* Links */
+  .main-nav a {
+	  padding: 10px 15px;
+	  text-transform: uppercase;
+	  text-align: center;
+	  display: block;
+  }
+  
+  .main-nav a {
+	  color: #34495e;
+	  font-size: .99em;
+  }
+  
+  .main-nav a:hover {
+	  color: #718daa;
+  }
+  
+  .nav {
+	  padding-top: .5em;
+	  padding-bottom: .5em;
+	  background-color: #f4f4f4;
+	  -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+	  -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+	  box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+  }
+  
+  ul.main-nav {
+	  margin: auto;
+  }
+  
+  
+  /* ================================= 
+	Media Queries
+  ==================================== */
+  
+  @media (min-width: 400px) {
+	  .nav,
+	  .main-nav {
+		  display: flex;
+		  color: #fff;
+	  }
+	  .nav {
+		  flex-direction: column;
+		  align-items: center;
+		  header{
+		  width: 80%;
+		  margin: 0 auto;
+		  max-width: 1150px;
+	  }
+	  }
+  
+  }
+  
+  @media (min-width: 1025px) {
+	  .nav {
+		  flex-direction: row;
+		  justify-content: space-between;
+	  }
+  
+  }
+  
+
+
+img {
+	display: block;
+	border: 0;
+	width: 100%;
+	height: auto;
+}
+
+/* Partnering section */
+article > div.partnering {
+	padding: 20px 20px;
+	background: #094B81;
+	color: #fff;
+}
+
+article.automated {
+	padding: 20px 20px;
+	color: #000;
+}
+
+article > div.partnering > h1 {
+	margin-bottom: 0;
+}
+
+article > div.partnering > p {
+	margin-top: 0;
+	color: #fff;
+}
+
+article > div > h2.gallery-link {
+	color: #fff;
+}
+
+article > div > h2.gallery-link > span > a:link, article > div > h2.gallery-link > span > a:visited  {
+	color: #fff;
+	font-size: .9rem;
+}
+
+article > div > img {
+	max-width: 400px;
+}
+
+article.about-gpp {
+	background-color: #F57E24;
+	padding: 0 20px;
+	color: #fff;
+}
+
+article.about-us {
+	background-color: #fff;
+}
+
+article.about-gpp h2 {
+	color: #fff;
+}
+
+article.about-gpp {
+	display: flex;
+	flex-direction: column;
+}
+
+div.gpp-building > img {
+	max-width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+div.map > img{
+	max-width: 100%;
+	margin-top: 20px;
+}
+
+footer {
+	background-color: #F57E24;
+	padding: 20px;
+	border-top: 20px solid #094B81;
+}
+
+footer > ul.main-nav a:link, footer > ul.main-nav a:visited, footer > span {
+	color: #fff;
+}
+
+footer > span {
+	padding: 15px;
+	color: #fff;
+	font-size: 1rem;
+}
+
+footer > ul.main-nav a:hover {
+	color: #000;
+}
+
+ul.parts {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+ul.parts > li > img {
+	max-width: 200px;
+}
+
+h3.contact {
+	margin-bottom: 0;
+}
+
+
+
+/*--------------------------------------------------------------
+Basic responsive layout for all browsers:
+--------------------------------------------------------------*/
+
+.site {
+	max-width: 50em;
+	margin: 0 auto;
+}
+
+/*--------------------------------------------------------------
+CSS Grid layout for modern browsers:
+--------------------------------------------------------------*/
