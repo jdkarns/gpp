@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style-main.css" type="text/css" media="all">
-    <title>Part Gallery | Greenfield Precision Plastics</title>
+    <title>Parts Gallery | Greenfield Precision Plastics</title>
 </head>
 
 <body class="site">
@@ -22,7 +22,7 @@
         <ul class="main-nav">
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
-            <li><a href="part-gallery.php">Part Gallery</a></li>
+            <li><a href="part-gallery.php">Parts Gallery</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
@@ -100,7 +100,7 @@
         <ul class="main-nav">
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
-            <li><a href="part-gallery.php">Part Gallery</a></li>
+            <li><a href="part-gallery.php">Parts Gallery</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
         <span>Copyright &copy; all rights reserved.
