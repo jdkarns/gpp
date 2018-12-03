@@ -36,7 +36,7 @@
 
             <div>
                 <h2>Contact Greenfield Precision Plastics, llc</h2>
-                <address>
+                <address class="address">
                     <h3 class="contact">Contacts</h3>
                    <strong> Email: </strong> <a href="mailto:bkarns@greenfieldprecisionplastics.com">Brent Karns</a><br>
                    <strong> Email: </strong><a href="mailto:tkarns@greenfieldprecisionplastics.com">Tom Karns</a><br>
@@ -48,7 +48,7 @@
 
             </div>
             <div class="map">
-                <img src="img/map.png" alt="">
+                <a href="https://goo.gl/maps/XipRhNhkVyK2" target="_blank"><img src="img/map.png" alt=""></a>
             </div>
         </article>
 

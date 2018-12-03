@@ -43,7 +43,7 @@
                     strong partnerships that are mutually beneficial for everyone involved.
                 </p>
                 <blockquote>
-                    "From product concept to quality parts on time every time. We are the strategic partner that is the
+                    "From product concept, to quality parts on time every time; we are the strategic partner that is the
                     right fit for your company".
                 </blockquote>
                 <p>

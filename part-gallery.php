@@ -87,7 +87,7 @@
                     <li><img src="img/parts/53.jpg" alt=""></li>
                     <li><img src="img/parts/54.jpg" alt=""></li>
                     <li><img src="img/parts/55.jpg" alt=""></li>
-                    <li><img src="img/parts/56.jpg" alt=""></li>
+                    <!-- <li><img src="img/parts/56.jpg" alt=""></li> -->
                     <li><img src="img/parts/57.png" alt=""></li>
                 </ul>
             </div>

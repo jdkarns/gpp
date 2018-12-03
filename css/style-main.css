@@ -154,6 +154,12 @@ article.about-gpp {
 
 article.about-us {
 	background-color: #fff;
+	padding: 0 20px;
+}
+
+article.about-us > div > address.address {
+	padding: 20px;
+	margin-bottom: 20px;
 }
 
 article.about-gpp h2 {
@@ -171,14 +177,19 @@ div.gpp-building > img {
 	margin: 0;
 }
 
-div.map > img{
-	max-width: 100%;
+
+
+div.map > a > img{
+	min-width: 100%;
+	padding: 0;
+	margin: 0;
 	margin-top: 20px;
 }
 
 footer {
 	background-color: #F57E24;
 	padding: 20px;
+	margin-top: 20px;
 	border-top: 20px solid #094B81;
 }
 
@@ -204,7 +215,7 @@ ul.parts {
 }
 
 ul.parts > li > img {
-	max-width: 200px;
+	max-width: 150px;
 }
 
 h3.contact {
