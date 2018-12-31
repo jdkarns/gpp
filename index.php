@@ -14,7 +14,7 @@
     <!-- masthead -->
     <header class="masthead">
         <img class="logo" src="img/gpp-slogan-logo.svg" alt="GPP's logo without">
-        <img src="img/production-floor.png" alt="Picture of the Production Floor">
+        <img src="img/gpp-production-floor.jpg" alt="Picture of the Production Floor">
     </header>
 
     <!-- navigation -->
