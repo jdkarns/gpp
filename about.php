@@ -18,14 +18,9 @@
     </header>
 
     <!-- navigation -->
-    <nav class="nav">
-        <ul class="main-nav">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="part-gallery.php">Parts Gallery</a></li>
-            <li><a href="contact.php">Contact</a></li>
-        </ul>
-    </nav>
+    <?php
+    include_once "includes/header-nav.inc";
+    ?>
 
     <!-- main content -->
     <main>

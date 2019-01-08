@@ -218,6 +218,18 @@ ul.parts > li > img {
 	max-width: 150px;
 }
 
+ul.list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+ul.list > li > img {
+	max-width: 150px;
+}
+
+
 h3.contact {
 	margin-bottom: 0;
 }
