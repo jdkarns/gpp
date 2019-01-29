@@ -19,8 +19,8 @@
 
     <!-- navigation -->
     <?php
-    include_once "includes/header-nav.inc";
-    ?>
+include_once "includes/header-nav.inc";
+?>
 
     <!-- main content -->
     <main>
@@ -33,10 +33,10 @@
                 <h2>Contact Greenfield Precision Plastics, llc</h2>
                 <address class="address">
                     <h3 class="contact">Contacts</h3>
-                   <strong> Email: </strong> <a href="mailto:bkarns@greenfieldprecisionplastics.com">Brent Karns</a><br>
-                   <strong> Email: </strong><a href="mailto:tkarns@greenfieldprecisionplastics.com">Tom Karns</a><br>
+                    <strong> Email: </strong> <a href="mailto:bkarns@greenfieldprecisionplastics.com">Brent Karns</a><br>
+                    <strong> Email: </strong><a href="mailto:tkarns@greenfieldprecisionplastics.com">Tom Karns</a><br>
                     <strong> Phone: 1-937-803-0328</strong> <br>
-                        <strong> Visit us at:</strong><br>
+                    <strong> Visit us at:</strong><br>
                     175 Industrial Park Dr.<br>
                     Greenfield, Ohio 45123 USA
                 </address>
@@ -51,17 +51,9 @@
 
     <!-- footer -->
     <footer>
-        <ul class="main-nav">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="part-gallery.php">Parts Gallery</a></li>
-            <li><a href="contact.php">Contact</a></li>
-        </ul>
-        <span>Copyright &copy; all rights reserved.
-            <script type="text/javascript">
-                var d = new Date()
-                document.write(d.getFullYear())
-            </script></span>
+        <?php
+include_once "includes/footer.inc";
+?>
     </footer>
 
 

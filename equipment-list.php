@@ -24,63 +24,111 @@ include_once "includes/header-nav.inc";
 
     <!-- main content -->
     <main>
-        <article >
+        <article>
             <div class="equipment-list">
+                <header>
+                    <h2>Equipment List</h2> <img src="img/hatian-618-ton.jpg" alt="Equipment list">
+                </header>
                 <table class="list">
                     <tr>
-                        <td></td>
+                        <th>Qty</th>
+                        <th>Tonage</th>
+                        <th>Mfg</th>
                     </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-1 55 Ton Haitian
-5 110 Ton Cincinnati
-2	165 Ton	Cincinnati
-2	170 Ton	Van Dorn
-1	165 Ton	Haitian
-1	200 Ton	Nissin
-1	200 Ton	Haitian
-1	200 Ton	Toyo
-1	250 Ton	Engle
-1	250 Ton	Cincinnati
-4	270 Ton	Mitsubishi
-1	260 Ton	Nissin
-1	300 Ton	Engle
-1	330 Ton	Cincinnati
-1	610 Ton	Mitsubishi
-1	618 Ton	Haitian
+                    <tr>
+                        <td>1</td>
+                        <td>55</td>
+                        <td>Haitian</td>
+                    <tr>
+                        <td>5</td>
+                        <td>110</td>
+                        <td>Cincinnati</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>165</td>
+                        <td>Cincinnati</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>170</td>
+                        <td>Van Dorn</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>165</td>
+                        <td>Haitian</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>200</td>
+                        <td>Nissin</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>200</td>
+                        <td>Haitian</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>200</td>
+                        <td>Toyo</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>250</td>
+                        <td>Engle</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>250</td>
+                        <td>Cincinnati</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>270</td>
+                        <td>Mitsubishi</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>260</td>
+                        <td>Nissin</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>300</td>
+                        <td>Engle</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>330</td>
+                        <td>Cincinnati</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>610</td>
+                        <td>Mitsubishi</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>618</td>
+                        <td>Haitian</td>
+                    </tr>
 
-</table>
+
+                </table>
             </div>
+
+
         </article>
 
     </main>
 
     <!-- footer -->
     <footer>
-        <ul class="main-nav">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="part-gallery.php">Parts Gallery</a></li>
-            <li><a href="contact.php">Contact</a></li>
-        </ul>
-        <span>Copyright &copy; all rights reserved.
-            <script type="text/javascript">
-                var d = new Date()
-                document.write(d.getFullYear())
-            </script></span>
+            <?php
+            include_once "includes/footer.inc";
+            ?>
     </footer>
 
 

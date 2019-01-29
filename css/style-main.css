@@ -77,7 +77,7 @@ ul {
 	Media Queries
   ==================================== */
   
-  @media (min-width: 400px) {
+  @media (min-width: 500px) {
 	  .nav,
 	  .main-nav {
 		  display: flex;
@@ -90,6 +90,10 @@ ul {
 		  width: 80%;
 		  margin: 0 auto;
 		  max-width: 1150px;
+	  }
+
+	  table {
+		  border-radius: 0;
 	  }
 	  }
   
@@ -234,6 +238,45 @@ h3.contact {
 	margin-bottom: 0;
 }
 
+table, th, td {
+	border: 1px solid rgba(180, 177, 177, 0.349);
+	padding: 6px;
+  }
+
+table {
+	border: solid 15px  rgba(180, 177, 177, 0.349);
+	min-width: 100%;
+	background-color: #717477;
+	color: #fff;
+	text-align: center;
+	padding: 10px 10px;
+	border-radius: 0;
+}
+
+table > th {
+	text-align: center;
+
+}
+
+/* div.equipment-list img {
+	max-width: 60%;
+} */
+
+div.equipment-list > header {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px;
+}
+
+div.equipment-list > header > h2 {
+	font-size: 2rem;
+}
+
+div.equipment-list > header > img {
+	max-width: 100%;
+}
 
 
 /*--------------------------------------------------------------
