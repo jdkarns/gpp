@@ -32,7 +32,7 @@ include_once "includes/header-nav.inc";
                 <table class="list">
                     <tr>
                         <th>Qty</th>
-                        <th>Tonage</th>
+                        <th>Tonnage</th>
                         <th>Mfg</th>
                     </tr>
                     <tr>

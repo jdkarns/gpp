@@ -49,7 +49,7 @@
                     ensures success.
                 </p>
                 <p>
-                    Our capabilities include high quality parts and Assemblies with short lead times while offering
+                    Our capabilities include high quality parts and assemblies with short lead times while offering
                     competitive prices. We look forward to developing our partnership with you.
                 </p>
             </div>
