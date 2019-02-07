@@ -33,8 +33,7 @@
                 <h2>About Greenfield Precision Plastics, llc (GPP)</h2>
                 <p>
                     We assembled Greenfield Precision Plastics to provide strategic partnerships
-                    We understand in today’s marketplace there is a need for strategic partners; we do not want
-                    customers we are providing solutions for businesses that create a stable supply chain, building
+                    We understand in today’s marketplace there is a need for strategic partners—you are more than a customer—we are providing solutions for businesses that create a stable supply chain, building
                     strong partnerships that are mutually beneficial for everyone involved.
                 </p>
                 <blockquote>
