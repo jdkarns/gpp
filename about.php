@@ -19,38 +19,34 @@
 
     <!-- navigation -->
     <?php
-    include_once "includes/header-nav.inc";
-    ?>
+include_once "includes/header-nav.inc";
+?>
 
     <!-- main content -->
     <main>
-            <div class="gpp-building">
-                    <img src="img/resized-building.jpg" alt="">
-                </div>
+        <div class="gpp-building">
+            <img src="img/resized-building.jpg" alt="">
+        </div>
         <article class="about-us">
-         
+
             <div>
                 <h2>About Greenfield Precision Plastics, llc (GPP)</h2>
                 <p>
-                    We assembled Greenfield Precision Plastics to provide strategic partnerships
-                    We understand in today’s marketplace there is a need for strategic partners—you are more than a customer—we are providing solutions for businesses that create a stable supply chain, building
-                    strong partnerships that are mutually beneficial for everyone involved.
+                    Greenfield Precision Plastics operates as a plastic injection molding company with a persistent
+                    model and the ability to build a strategic partnership with you. What does that mean?
                 </p>
                 <blockquote>
-                    "From product concept, to quality parts on time every time; we are the strategic partner that is the
-                    right fit for your company".
+                    "Strategic partners—are more than customers".
                 </blockquote>
                 <p>
-                    We provide optimal manufacturing solutions for your custom part needs. Don’t spend days sending out
-                    RFQs, drawings, and asking the right questions just to wait on feedback. Greenfield Precision
-                    Plastics will provide the answers and partnership that is integrated into your daily operation. Our
-                    manufacturing expertise along with our relentless devotion to building strategic partnerships
-                    ensures success.
+                    It means design feasibility, manufacturing feasibility; it means being in sync with our partner’s
+                    total product strategy to supply quality products from concept to market on-time while meeting and
+                    controlling defined cost objectives.
                 </p>
-                <p>
+                <!-- <p>
                     Our capabilities include high quality parts and assemblies with short lead times while offering
                     competitive prices. We look forward to developing our partnership with you.
-                </p>
+                </p> -->
             </div>
         </article>
 
@@ -58,9 +54,9 @@
 
     <!-- footer -->
     <footer>
-    <?php
-    include_once "includes/footer.inc";
-        ?>
+        <?php
+include_once "includes/footer.inc";
+?>
     </footer>
 
 
