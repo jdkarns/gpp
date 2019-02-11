@@ -40,8 +40,7 @@ include_once "includes/header-nav.inc";
                 </blockquote>
                 <p>
                     It means design feasibility, manufacturing feasibility; it means being in sync with our partner’s
-                    total product strategy to supply quality products from concept to market on-time while meeting and
-                    controlling defined cost objectives.
+                    total product strategy to supply quality products from concept to market on-time while meeting defined cost objectives.
                 </p>
                 <!-- <p>
                     Our capabilities include high quality parts and assemblies with short lead times while offering
