@@ -32,20 +32,34 @@ include_once "includes/header-nav.inc";
             <div>
                 <h2>About Greenfield Precision Plastics, llc (GPP)</h2>
                 <p>
-                    Greenfield Precision Plastics operates as a plastic injection molding company with a persistent
-                    model and the ability to build a strategic partnership with you. What does that mean?
+                    Greenfield Precision Plastics (GPP) is a leading “plastic injection molder” with over 40 years in
+                    the plastics industry; serving automotive, consumer and medical grade products.
+                </p>
+                <p>
+                    GPP operates “always focused” on building a strategic partnership with you. What does that mean?
                 </p>
                 <blockquote>
                     "Strategic partners—are more than customers".
                 </blockquote>
                 <p>
-                    It means design feasibility, manufacturing feasibility; it means being in sync with our partner’s
-                    total product strategy to supply quality products from concept to market on-time while meeting defined cost objectives.
+                    It means achieving design feasibility and manufacturing feasibility; it means syncing with our
+                    partner’s “total product strategy” working to supply quality products in specification with GPP’s
+                    QMS. It means coming together with you from concept to market—on time while meeting essential cost
+                    objectives.
                 </p>
-                <!-- <p>
-                    Our capabilities include high quality parts and assemblies with short lead times while offering
-                    competitive prices. We look forward to developing our partnership with you.
-                </p> -->
+                <p>
+                    It means GPP is positioned to “invest in a partnership with you” to create a stable working
+                    relationship that is mutually beneficial.
+                </p>
+                <p>
+                    As a strategic partner GPP will support you with just in time manufacturing, along with custom
+                    operations designed for your specific needs. And GPP has the capital resources to accomplish these
+                    goals.
+                </p>
+                <p>
+                    Our manufacturing expertise along with our dedicated commitment to building a strategic partnership
+                    with you—means GPP is equipped to ensure success.
+                </p>
             </div>
         </article>
 
