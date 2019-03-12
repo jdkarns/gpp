@@ -18,8 +18,46 @@ header.masthead > img {
 }
 
 header.masthead > img.logo {
-	max-width: 400px;
+	max-width: 500px;
 	margin: 0 auto;
+}
+
+article.about-us > p {
+	max-width: 700px;
+	margin: auto;
+	line-height: 1.5em;
+	padding: 8px 8px;
+}
+
+article.quality > h2 {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+article.quality > h1.qms {
+	padding: 0;
+	margin: 0;
+	color: orange;
+}
+
+article.quality > p.qms {
+	padding: 0;
+	margin: 0;
+}
+
+article.quality > h3 {
+	padding: 0;
+	margin: 0;
+}
+
+article.about-us > blockquote {
+	max-width: 400px;
+	margin: auto;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	padding: 8px;
+	border-left: 4px solid rgba(0, 0, 0, 0.445);
+	font-style: italic;
 }
 
 ul {
@@ -59,7 +97,7 @@ ul {
 	  color: #718daa;
   }
   
-  .nav {
+  nav.nav {
 	  padding-top: .5em;
 	  padding-bottom: .5em;
 	  background-color: #f4f4f4;
@@ -86,15 +124,13 @@ ul {
 	  .nav {
 		  flex-direction: column;
 		  align-items: center;
-		  header{
-		  width: 80%;
+		  /* width: 80%; */
 		  margin: 0 auto;
 		  max-width: 1150px;
 	  }
 
 	  table {
 		  border-radius: 0;
-	  }
 	  }
   
   }
@@ -179,6 +215,8 @@ div.gpp-building > img {
 	max-width: 100%;
 	padding: 0;
 	margin: 0;
+	margin-bottom: -20px;
+	margin-top: 20px;
 }
 
 
@@ -187,7 +225,7 @@ div.map > a > img{
 	min-width: 100%;
 	padding: 0;
 	margin: 0;
-	margin-top: 20px;
+	margin-top: 0;
 }
 
 footer {

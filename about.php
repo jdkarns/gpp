@@ -19,8 +19,8 @@
 
     <!-- navigation -->
     <?php
-include_once "includes/header-nav.inc";
-?>
+        include_once "includes/header-nav.inc";
+    ?>
 
     <!-- main content -->
     <main>
@@ -29,38 +29,36 @@ include_once "includes/header-nav.inc";
         </div>
         <article class="about-us">
 
-            <div>
-                <h2>About Greenfield Precision Plastics, llc (GPP)</h2>
-                <p>
-                    Greenfield Precision Plastics (GPP) is a leading “plastic injection molder” with over 40 years in
-                    the plastics industry; serving automotive, consumer and medical grade products.
-                </p>
-                <p>
-                    GPP operates “always focused” on building a strategic partnership with you. What does that mean?
-                </p>
-                <blockquote>
-                    "Strategic partners—are more than customers".
-                </blockquote>
-                <p>
-                    It means achieving design feasibility and manufacturing feasibility; it means syncing with our
-                    partner’s “total product strategy” working to supply quality products in specification with GPP’s
-                    QMS. It means coming together with you from concept to market—on time while meeting essential cost
-                    objectives.
-                </p>
-                <p>
-                    It means GPP is positioned to “invest in a partnership with you” to create a stable working
-                    relationship that is mutually beneficial.
-                </p>
-                <p>
-                    As a strategic partner GPP will support you with just in time manufacturing, along with custom
-                    operations designed for your specific needs. And GPP has the capital resources to accomplish these
-                    goals.
-                </p>
-                <p>
-                    Our manufacturing expertise along with our dedicated commitment to building a strategic partnership
-                    with you—means GPP is equipped to ensure success.
-                </p>
-            </div>
+            <h2>About Greenfield Precision Plastics, llc (GPP)</h2>
+            <p>
+                Greenfield Precision Plastics (GPP) is a leading “plastic injection molder” with over 40 years in
+                the plastics industry; serving automotive, consumer and medical grade products.
+            </p>
+            <p>
+                GPP operates “always focused” on building a strategic partnership with you. What does that mean?
+            </p>
+            <blockquote>
+                "Strategic partners—are more than customers".
+            </blockquote>
+            <p>
+                It means achieving design feasibility and manufacturing feasibility; it means syncing with our
+                partner’s “total product strategy” working to supply quality products in specification with GPP’s
+                QMS. It means coming together with you from concept to market—on time while meeting essential cost
+                objectives.
+            </p>
+            <p>
+                It means GPP is positioned to “invest in a partnership with you” to create a stable working
+                relationship that is mutually beneficial.
+            </p>
+            <p>
+                As a strategic partner GPP will support you with just in time manufacturing, along with custom
+                operations designed for your specific needs. And GPP has the capital resources to accomplish these
+                goals.
+            </p>
+            <p>
+                Our manufacturing expertise along with our dedicated commitment to building a strategic partnership
+                with you—means GPP is equipped to ensure success.
+            </p>
         </article>
 
     </main>
