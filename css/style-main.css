@@ -23,7 +23,7 @@ header.masthead > img.logo {
 }
 
 main > article.quality {
-	margin: 10px 10px;
+	margin: 15px 15px !important;
 }
 
 article.about-us > p {
