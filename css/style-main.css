@@ -22,6 +22,10 @@ header.masthead > img.logo {
 	margin: 0 auto;
 }
 
+main > article.quality {
+	margin: 10px 10px;
+}
+
 article.about-us > p {
 	max-width: 700px;
 	margin: auto;
