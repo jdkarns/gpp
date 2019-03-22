@@ -33,10 +33,36 @@ article.about-us > p {
 	padding: 8px 8px;
 }
 
-article.quality > h2 {
+article.quality h2 {
+	padding: 0;
+	margin: 0;
+	/* line-height: .4rem; */
+}
+
+article.quality h2 > span {
 	padding-bottom: 0;
 	margin-bottom: 0;
+	font-size: .9rem;
+	font-variant-caps: small-caps;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+article.quality h2.iso14001 {
+	margin-top: 0;
+	margin-bottom: -25px;
+	padding-bottom: 0;
+}
+
+article.quality h2 > span.certificationDate {
+	margin: 0;
+	padding: 0;
+	font-size: .8rem;
+}
+
+article.quality h2 > span > a {
+	text-decoration: underline;
+}
+
 
 article.quality > h1.qms {
 	padding: 0;
