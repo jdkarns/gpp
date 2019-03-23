@@ -31,7 +31,7 @@
             <h2 class="iso14001">ISO 14001:2015 <span>status: draft document</span></h2>
             <h2><span class="certificationDate">Certification in June 2019</span></h2>
             <h1 class="qms">1.0</h1>
-            <h1 class="qms">View the GPP QMS</h1>
+            <!-- <h1 class="qms">View the GPP QMS</h1> -->
             <p class="qms">
                 The GPP QMS provides an overview of the Greenfield Precision Plastics documented Quality Management
                 System. Management is committed to the principles of Continuous Improvement and ISO9001:2015.
@@ -55,6 +55,7 @@
                 Our manufacturing expertise along with our dedicated commitment to building a strategic partnership
                 with you—means GPP is equipped to ensure success.
             </p>
+            <h2>ISO 9001:2015E <span><strong>status:</strong> controlled document:  [<a href="gpp-qms.pdf" target="_blank">download gpp qms</a>]</span></h2>
         </article>
         <div class="gpp-building">
             <img src="img/resized-building.jpg" alt="">
