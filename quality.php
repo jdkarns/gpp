@@ -49,7 +49,7 @@
                 Manual, procedures, and work instructions are for reference only.
             </p>
             <p>
-                This manual is revised as necessary to reflect changes in quality system requirements
+                This manual is revised as necessary to reflect changes in quality system requirements.
             </p>
             <p>
                 Our manufacturing expertise along with our dedicated commitment to building a strategic partnership
