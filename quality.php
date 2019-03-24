@@ -34,7 +34,7 @@
             <!-- <h1 class="qms">View the GPP QMS</h1> -->
             <p class="qms">
                 The GPP QMS provides an overview of the Greenfield Precision Plastics documented Quality Management
-                System. Management is committed to the principles of Continuous Improvement and ISO9001:2015
+                System. Management is committed to the principles of Continuous Improvement and ISO9001:2015.
             </p>
             <p>
                 These principles enable Greenfield Precision Plastics to consistently provide products and services that
