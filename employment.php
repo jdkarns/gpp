@@ -34,7 +34,7 @@
             </p>
             
             
-            <h2>Employement Application Download >> <span>[<a href="gpp-qms.pdf" target="_blank">download gpp qms</a>]</span></h2>
+            <h2>Employement Application Download >> <span>[<a href="gpp-app.pdf" target="_blank">download gpp qms</a>]</span></h2>
         </article>
         <div style="margin-top: 60px;" class="gpp-building">
             <img src="img/resized-building.jpg" alt="">
