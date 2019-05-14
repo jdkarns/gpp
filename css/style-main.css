@@ -145,7 +145,7 @@ ul {
 	Media Queries
   ==================================== */
   
-  @media (min-width: 500px) {
+  @media (min-width: 760px) {
 	  .nav,
 	  .main-nav {
 		  display: flex;
@@ -263,6 +263,7 @@ footer {
 	padding: 20px;
 	margin-top: 20px;
 	border-top: 20px solid #094B81;
+	font-size: .85rem;
 }
 
 footer > ul.main-nav a:link, footer > ul.main-nav a:visited, footer > span {
@@ -345,6 +346,8 @@ div.equipment-list > header > h2 {
 div.equipment-list > header > img {
 	max-width: 100%;
 }
+
+
 
 
 /*--------------------------------------------------------------

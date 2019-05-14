@@ -21,7 +21,7 @@
     <?php
 include_once "includes/header-nav.inc";
 ?>
-
+<img src="" alt="">
     <!-- main content -->
     <main>
         <article>
